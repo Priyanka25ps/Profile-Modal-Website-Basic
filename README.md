@@ -2,6 +2,7 @@
 A simple and interactive profile modal built using HTML, CSS, and JavaScript. This project demonstrates how to create a responsive and stylish pop-up modal that can be opened and closed with a button click.
 
 Features:
+
 ✅ Click to open and close the profile modal
 
 ✅ Smooth CSS animations for better user experience
